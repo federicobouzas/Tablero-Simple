@@ -1,0 +1,5 @@
+applicacion,accion,usuario,lugar_de_trabajo,email,nombre,apellido,fecha_hora,roles,tipo_doc,numero_doc,nombre_persona,resultado,descripcion,punto_entrega,fecha_turno,hora_turno,notas_callcenter,documentacion,serial,ENACOM,punto_entrega_notas
+CallCenter,Asignacion de turno,Call4,Call Center,affernandez@hotmail.com,no-name,no-name,2017-11-04-00:00:14 ,call,LIBRETA CIVICA,5610343,SUSANA IGLESIAS,Agendado,Agendado-Turno Asignado,Maza,2017-11-06,13:00,,,,0,
+CallCenter,Agendamiento,Call1,Call Center,affernandez@hotmail.com,no-name,no-name,2017-11-04-00:00:18 ,call,DNI,668832,CLARISA MARY TRIONFO,,,,,,,,,0,
+CallCenter,Actualizacion de datos,Call1,Call Center,affernandez@hotmail.com,no-name,no-name,2017-11-04-00:00:35 ,call,DNI,3993642,PEPE  MARIA DEL CARMEN,Actualizacion de datos,"Fecha nac, telefono, direccion, comuna.",,,,,,,0,
+CallCenter,Asignacion de turno,Call20,Call Center,affernandez@hotmail.com,no-name,no-name,2017-11-04-00:00:19 ,call,LC,2338919,TREVISAN  MARIA ANGELICA,Agendado,Agendado-Turno Asignado,Chiclana,2017-11-07,11:00,,,,0,
