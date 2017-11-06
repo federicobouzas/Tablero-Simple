@@ -7224,3 +7224,13 @@ TIME: 2017-11-06 10:22:10 | DURACION: 0 | FILE: Sede Comunal 6 | URL: http://adm
 TIME: 2017-11-06 10:22:10 | DURACION: 0 | FILE: Sede Comunal 12 | URL: http://admin.gestionmassimple.com/api/generateScheduleCsv/?date=2017-11-07&delivery_point=Sede%20Comunal%2012
 TIME: 2017-11-06 10:21:52 | DURACION: 19 | FILE: agenda | URL: http://admin.gestionmassimple.com/api/generateAgendaCsv/?from_date=2017-11-07&to_date=2017-11-20&delivery_point=null
 TIME: 2017-11-06 10:29:39 | DURACION: 7 | FILE: entregas | URL: http://admin.gestionmassimple.com/api/deliveryReport/?from_date=2017-10-22&to_date=2017-11-07&delivery_point=all_dp_report
+TIME: 2017-11-06 10:37:34 | DURACION: 4 | FILE: auditoria_hoy | URL: http://admin.gestionmassimple.com/api/createTrackingCsv/?date=2017-11-06&app=CallCenter
+TIME: 2017-11-06 10:37:38 | DURACION: 20 | FILE: agenda | URL: http://admin.gestionmassimple.com/api/generateAgendaCsv/?from_date=2017-11-07&to_date=2017-11-20&delivery_point=null
+TIME: 2017-11-06 10:37:58 | DURACION: 1 | FILE: Chiclana | URL: http://admin.gestionmassimple.com/api/generateScheduleCsv/?date=2017-11-07&delivery_point=Chiclana
+TIME: 2017-11-06 10:37:59 | DURACION: 1 | FILE: CCD9 | URL: http://admin.gestionmassimple.com/api/generateScheduleCsv/?date=2017-11-07&delivery_point=CCD9
+TIME: 2017-11-06 10:38:00 | DURACION: 2 | FILE: Maza | URL: http://admin.gestionmassimple.com/api/generateScheduleCsv/?date=2017-11-07&delivery_point=Maza
+TIME: 2017-11-06 10:38:02 | DURACION: 1 | FILE: Balcarce | URL: http://admin.gestionmassimple.com/api/generateScheduleCsv/?date=2017-11-07&delivery_point=Balcarce
+TIME: 2017-11-06 10:38:03 | DURACION: 1 | FILE: Sede Comunal 5 | URL: http://admin.gestionmassimple.com/api/generateScheduleCsv/?date=2017-11-07&delivery_point=Sede%20Comunal%205
+TIME: 2017-11-06 10:38:03 | DURACION: 1 | FILE: Sede Comunal 6 | URL: http://admin.gestionmassimple.com/api/generateScheduleCsv/?date=2017-11-07&delivery_point=Sede%20Comunal%206
+TIME: 2017-11-06 10:38:04 | DURACION: 1 | FILE: Sede Comunal 12 | URL: http://admin.gestionmassimple.com/api/generateScheduleCsv/?date=2017-11-07&delivery_point=Sede%20Comunal%2012
+TIME: 2017-11-06 10:38:04 | DURACION: 1 | FILE: Sede Comunal 12 | URL: http://admin.gestionmassimple.com/api/generateScheduleCsv/?date=2017-11-07&delivery_point=Sede%20Comunal%2012

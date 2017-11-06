@@ -289,6 +289,7 @@ class Tablero {
     }
 
     private function setFranjasHorariosPunto($punto) {
+        $this->franjasPuntos[$punto] = [];
         if (($gestor = fopen("data/puntos/" . $punto . ".csv", "r")) !== FALSE) {
             $fila = 1;
             while (($datos = fgetcsv($gestor, 1000, ",")) !== FALSE) {
